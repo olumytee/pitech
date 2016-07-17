@@ -1,2 +1,2 @@
 # pitech
-PiTech Serivices Website live @ https://pitech.com.ng
+PiTech Services Website live @ https://pitech.com.ng
