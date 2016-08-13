@@ -1,1 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=El+Messiri|Ubuntu);h3,html{font-family:'El Messiri',sans-serif}.nav-item img{max-height:54px}a.nav-item{font-weight:700}.titleBig{font-size:72px;line-height:75px;font-weight:900;font-family:'El Messiri',sans-serif}.partnersText,.subtitle{font-size:18px}.nav-item,.subtitle{font-weight:300;font-family:'El Messiri',sans-serif}.partnersText{font-family:'El Messiri',sans-serif}.jumbo-text{font-size:70px;color:#000;-webkit-text-fill-color:#fff;-webkit-text-stroke-width:1px;-webkit-text-stroke-color:#000}.tilebg{background:url(/img/photo.jpg) center no-repeat;background-size:cover}.missionbg{background:url(/img/mission.jpg) center no-repeat;background-size:cover}.servicesbg{background:url(/img/services.jpg) center no-repeat;background-size:cover}.isWhite{color: white !important;}.webbg{background:url(/img/web.jpg) center no-repeat;background-size:cover}.mobilebg{background:url(/img/mobile.jpg) center no-repeat;background-size:cover}.designbg{background:url(/img/design.jpg) center no-repeat;background-size:cover}.wiresbg{background:url(/img/wires.jpg) center no-repeat;background-size:cover}.tilebgTwo{background:url(/img/photo1.jpg) center no-repeat;background-size:cover}.for2kbg{background:url(/img/for2k.jpg) center no-repeat;background-size:cover}.contactbg{background:url(/img/contact.jpg) center no-repeat;background-size:cover}.thanksbg{background:url(/img/thank.jpg) center no-repeat;background-size:cover}p{font-family:'El Messiri',sans-serif;font-size:16px;color:#000;margin-bottom:25px}.footerText,.workLink{color:#fff}.notification,footer{margin-bottom:0!important}.workLink:hover{color:#fff;opacity:.8}#is-logo{background-image:url(/img/pitechlogo.png);background-size:contain;background-repeat:no-repeat;background-position:center center}.whiteBlack:hover{-webkit-filter:grayscale(100%);filter:gray;filter:grayscale(100%)}@media only screen and (max-width:767px){.titleBig{font-size:52px;line-height:54px;font-weight:900}}
+.stick {
+    position: fixed;
+    top: 0;
+    background-color: blue;
+}
+.articleText {
+  font-size: 18px !important;
+}
+a.nav-item {
+    color: rgba(255,255,255, 1) !important;
+}
+a.nav-item:hover {
+    color: rgba(255,255,255, 0.7) !important;
+}
+#twitter:hover {
+  color: #1da1f2;
+}
+#facebook:hover {
+  color: #3b5998;
+}
