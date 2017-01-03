@@ -19,3 +19,8 @@ a.nav-item:hover {
 #facebook:hover {
   color: #3b5998;
 }
+.botsbg {
+  background:url(/img/robot.jpg) center no-repeat;
+  background-size:cover;
+}
+/*.botsbg{}*/
